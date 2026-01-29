@@ -1,0 +1,18 @@
+CISO Salaries Continue to Rise Despite Economic Uncertainty
+
+
+
+The CISO Compensation Benchmark Report by IANS and Artico Search recently found that Chief Information Security Officers (CISOs) continue to experience steady compensation growth even as companies tighten spending. The report is based on compensation data from over 550 CISOs in the U.S. and Canada. 
+
+The report found that cybersecurity leadership remains a top business priority with CISO compensation packages continuing to remain robust. In 2025, overall CISO compensation increased by an average of 6.7%, while security budgets grew at a 4% rate, the slowest in five years. Due to market impacts, equity-based compensation grew faster than cash, signaling continued confidence in the role's long-term strategic value. 
+
+The report also found that 15% of CISOs changed employers this year, up from 11% in 2024. However, switching roles was not always rewarded; those CISOs who stayed at their companies and took on expanded responsibilities saw an average compensation increase of 8.1%, compared to 5% among those who switched jobs. 
+
+The top 1% of CISOs earn more than $3.2 million in total compensation, which is roughly 10 times the median and 20 times the bottom 10%. This variability is primarily reflective of equity package size, but also often reflects the impact of organization size, with Fortune 100 CISOs often far exceeding reported averages. 
+
+According to the report, 70% of CISOs receive equity, which can represent up to half of total pay among top earners. Tech and financial services are the highest-paying sectors, with average total compensation of $844,000 and $744,000, respectively. CISOs managing teams of 100+ and budgets above $50 million typically land in the top quartile. 
+
+The report found that 71% of CISOs now receive executive perks, including D&O insurance (up from 40% to over 50% this year). Deferred compensation plans, enhanced health benefits, and executive coaching are increasingly common, with one in five CISOs receiving non-financial perks such as access to legal counsel or severance agreements. 
+
+Download the report
+KEYWORDS: CISO security leadership security management
